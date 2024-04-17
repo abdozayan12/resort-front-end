@@ -144,11 +144,6 @@ The frontend will be available at `http://localhost:3000`.
 - GitHub: [Yusuf Sholotan](https://github.com/yin-ka)
 - LinkedIn: [Yusuf Sholotan](https://www.linkedin.com/in/yusuf-sholotan/)
 
-👤 **Clarence Atim**
-
-- GitHub: [Clarence Atim](https://github.com/ClarenceAtim)
-- LinkedIn: [Clarence Atim](https://www.linkedin.com/in/tegum-clarence-615b58200)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
